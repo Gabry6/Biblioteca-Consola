@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yD3x4ZWM54U=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabry\\Downloads\\BibliotecaConsola_Proyecto\\BibliotecaConsola\\BibliotecaConsola.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabry\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.31\\microsoft.netcore.app.ref.8.0.31.nupkg.sha512",
+    "C:\\Users\\gabry\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.31\\microsoft.windowsdesktop.app.ref.8.0.31.nupkg.sha512",
+    "C:\\Users\\gabry\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.31\\microsoft.aspnetcore.app.ref.8.0.31.nupkg.sha512",
+    "C:\\Users\\gabry\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.31\\microsoft.netcore.app.host.win-x64.8.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
